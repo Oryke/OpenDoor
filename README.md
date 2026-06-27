@@ -1,38 +1,65 @@
 # OpenDoor
 
-> A beginner-first open-source community where learning, asking questions, and making your first contribution should never feel intimidating.
+> An open research project exploring why so many aspiring developers struggle to move from learning technology to contributing with confidence.
 
 ## 🚧 Status
 
-OpenDoor is currently in its research and discovery phase.
+OpenDoor is currently in its research phase.
 
-This repository exists to explore a simple question:
+Right now, this isn't a product or a community. It's an attempt to understand a problem before trying to solve it.
 
-> What would the internet's most welcoming space for beginner developers look like?
+The goal is simple:
 
-## The Problem
+> Understand why so many people who genuinely want to learn technology never make it to their first meaningful contribution.
 
-Many aspiring developers don't quit because they're incapable—they leave because they feel overwhelmed, embarrassed to ask basic questions, or unsure where to start.
+## Why I'm Exploring This
 
-OpenDoor exists to rethink that experience.
+Over the years, I've noticed a pattern.
 
-## The Vision
+People start learning to code with excitement. They complete tutorials, follow courses, join communities, and genuinely want to become developers.
 
-To create a beginner-first ecosystem where people can:
+Then, somewhere along the way, many quietly disappear.
 
-- Learn without fear of judgment.
-- Make their first open-source contribution.
-- Build alongside other beginners.
-- Find mentors who remember what it was like to start.
-- Grow from "I don't know anything" to "I'm helping someone else."
+It doesn't always seem to be because they aren't capable.
+
+Sometimes they're overwhelmed.
+
+Sometimes they're afraid of asking "basic" questions.
+
+Sometimes they don't know what to do after finishing another tutorial.
+
+And sometimes they simply don't feel like they belong.
+
+I want to understand why that happens.
+
+## What I'm Trying to Learn
+
+Rather than jumping straight into building a solution, I'm using this repository to investigate questions like:
+
+- Where do beginners get stuck?
+- What happens between learning and contributing?
+- Why do some people keep going while others quietly stop?
+- What role do communities, mentorship, and confidence play?
+- What can existing initiatives teach us?
+
+If the research eventually points toward a product, community, or new approach, great.
+
+If it proves my assumptions wrong, that's just as valuable.
 
 ## Current Focus
 
-For now, this repository is a place to:
+For now, this repository is being used to:
 
-- Research beginner pain points.
-- Collect ideas.
-- Explore possible solutions.
-- Build in public.
+- Document research findings.
+- Challenge assumptions.
+- Study existing communities and initiatives.
+- Talk to beginners about their experiences.
+- Build an evidence-based understanding of the problem.
 
-If this mission resonates with you, I'd love to have you contribute your thoughts and ideas.
+## Guiding Principle
+
+I don't want to build something simply because it sounds like a good idea.
+
+I want to build something because the research shows it's needed.
+
+If you'd like to contribute ideas, research, or challenge my thinking, you're very welcome.

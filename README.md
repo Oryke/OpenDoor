@@ -63,3 +63,27 @@ I don't want to build something simply because it sounds like a good idea.
 I want to build something because the research shows it's needed.
 
 If you'd like to contribute ideas, research, or challenge my thinking, you're very welcome.
+
+---
+
+## 🗂 Explore the Repository
+
+If you're new to OpenDoor, here's where to start:
+
+| File | Purpose |
+|------|---------|
+| `README.md` | An overview of OpenDoor, what it is, and why it exists. |
+| `NOW.md` | What I'm currently working on and where the project is today. |
+| `MANIFESTO.md` | The principles and values guiding the project. |
+| `QUESTIONS.md` | The questions driving this research journey. |
+| `ASSUMPTIONS.md` | The assumptions I'm actively testing rather than treating as facts. |
+| `research/` | Research findings, working hypotheses, interview materials, and future insights. |
+| `research/interviews/` | Interview guide, templates, and conversations with beginner developers. |
+
+## Follow the Journey
+
+This repository is being built in public.
+
+As the research progresses, I'll continue documenting new findings, interviews, and changes in thinking.
+
+If you're interested in beginner developer experiences or open source onboarding, I'd love for you to follow along.
